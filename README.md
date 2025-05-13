@@ -48,9 +48,6 @@
 
 ---
 
-### 👓 My Aesthetic
-
-> A cool 20-year-old guy with a shaped beard and stylish glasses who’s building the future, one line of code at a time.
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/4187796/media/bc8d0e0b68a2120d4b8e42b96c45f8a5.gif" width="300" alt="Cool Coder Vibe"/>

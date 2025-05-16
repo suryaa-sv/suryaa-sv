@@ -62,11 +62,11 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:suryakumarsv12@gmail.com">
+  <a href="mailto:suryakumar.sv@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="48" style="border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/suryaakumar">
+  <a href="https://www.linkedin.com/in/suryaa-kumar-sv036">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" style="border-radius: 50%;" />
   </a>
   &nbsp;&nbsp;&nbsp;

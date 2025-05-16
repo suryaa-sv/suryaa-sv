@@ -34,8 +34,9 @@
 - 🧠 **AI & Machine Learning Algorithms**  
 - 📊 **Data Analysis & Visualization**  
 - 🔧 **Building Projects That Solve Real Problems**  
-- 💻 **Clean Code, DSA, and System Design Basics**  
-- 🎨 **HTML, CSS, JavaScript, and Front-End Skills**
+- 💻 **Deep Learning & Computer Vision & NLP**  
+- 📈 **High-Impact Digital Marketing that drives real results**
+- 🚀 **Leveraging AI Automation to boost productivity and efficiency**
 
 <br>
 

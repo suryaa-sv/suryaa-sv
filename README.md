@@ -15,9 +15,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="right">
-  <img src="https://github.com/suryaa-sv/suryaa-sv/blob/main/assets/suryaa_bw_profile.jpg" width="220" alt="Suryaa's photo" style="border-radius: 12px;" />
-</p>
 
 - 🚀 I'm **Suryaa**, a 20-year-old aspiring techie with a passion for learning and creating.  
 - 🤖 Currently diving into **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.  

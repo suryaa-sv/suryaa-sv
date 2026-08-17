@@ -57,27 +57,7 @@
 
 ---
 
-## 🔗 Connect With Me
 
-<p align="center">
-  <a href="mailto:suryakumar.sv@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="48" style="border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/suryaa-kumar-sv036">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48" style="border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yourusername">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="48" style="border-radius: 50%;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/yourusername">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx--v2.png" alt="X" width="48" style="border-radius: 50%;" />
-  </a>
-</p>
-
-<br>
 
 ---
 
